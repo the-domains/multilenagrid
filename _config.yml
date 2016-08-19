@@ -1,16 +1,16 @@
-typography_spectrum: 0.8550931122153997
+layout_spectrum: 0.8893725241068751
+typography_spectrum: 0.2941307171713561
 color:
-  brandStrength: 0.2774458033964038
-  lightness: 0.39375646342523396
-  saturation: 0.44385036220774055
-  rhythmicContrast: 0.6815661862492561
+  brandStrength: 0.38005106593482196
+  lightness: 0.3943110886029899
+  saturation: 0.37626492022536695
+  rhythmicContrast: 0.9179920977912843
   brandColors:
-    - '#00585F'
-    - '#009393'
-    - '#FFFCC4'
-    - '#F0EDBB'
-    - '#FF3800'
-layout_spectrum: 0.19549714587628841
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: Multilena.grid
 navigation:
   - name: Lena interactive designer
