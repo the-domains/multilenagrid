@@ -4,11 +4,18 @@
         <description><![CDATA[Lena.Interactive]]></description>
         <link>https://thegrid.ai/multilenagrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 20:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 20:31:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/multilenagrid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[2016 Presidential Election Center]]></title>
+            <description><![CDATA[<article><h1>2016 Presidential Election Center</h1><p>View CNN's coverage of the 2016 presidential election, including the latest polls, schedule and election results.</p><img src="http://i.cdn.turner.com/cnn/.element/apps/election-center-2016/general/promo_default.jpg"></article>]]></description>
+            <link>http://edition.cnn.com/election</link>
+            <guid isPermaLink="false">3d2ee089-2d6c-4489-8445-363c7358da94</guid>
+            <pubDate>Fri, 19 Aug 2016 20:31:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rio 2016 Olympics - Olympic Tickets, Sports & Schedule]]></title>
-            <description><![CDATA[<article><h1>Rio 2016 Olympics - Olympic Tickets, Sports & Schedule</h1><p>Official website of the Rio 2016 Olympics (5-21 Aug) and Paralympics (7-18 Sep) in Rio de Janeiro, Brazil. Find tickets, schedules, news, photos & videos.</p><img src="https://smsprio2016-a.akamaihd.net/_voice/e/k/ekCGkWri.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Rio 2016 Olympics - Olympic Tickets, Sports & Schedule</h1><p>Official website of the Rio 2016 Olympics (5-21 Aug) and Paralympics (7-18 Sep) in Rio de Janeiro, Brazil. Find tickets, schedules, news, photos & videos.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f37266c009dc0d898f6d1980e238caa3/noop.jpg?input=https%3A%2F%2Fsmsprio2016-a.akamaihd.net%2F_voice%2Fe%2Fk%2FekCGkWri.jpg"></article>]]></description>
             <link>https://www.rio2016.com/en</link>
             <guid isPermaLink="false">138c9dfc-8e2c-4f7b-a381-55d139118bf0</guid>
             <pubDate>Fri, 19 Aug 2016 20:31:11 GMT</pubDate>
