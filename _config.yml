@@ -12,5 +12,9 @@ color:
     - '#FF3800'
 layout_spectrum: 0.19549714587628841
 name: Multilena.grid
+navigation:
+  - name: Lena interactive designer
+    url: 'http://multilena.com'
+    type: external
 title: Lena.Interactive
 description: UI & UX Services
