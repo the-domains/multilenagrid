@@ -1,0 +1,14 @@
+layout_spectrum: 0.19549714587628841
+typography_spectrum: 0.8550931122153997
+color:
+  brandStrength: 0.2774458033964038
+  lightness: 0.39375646342523396
+  saturation: 0.44385036220774055
+  rhythmicContrast: 0.6815661862492561
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: Multilena.grid
